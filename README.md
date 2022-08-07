@@ -22,6 +22,11 @@
 <img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/WORD.gif" width="256" />
 
 #### Try it: https://sixwords.netlify.app
+
+###
+
+## Social Links
+[<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/linkedin.svg" width="25" />](http://www.linkedin.com/in/msed)
 <!--
 **mohammed-sed/mohammed-sed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
