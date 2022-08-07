@@ -28,6 +28,6 @@
 [<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/linkedin.svg" width="40" height="30" />](http://www.linkedin.com/in/msed#gh-light-mode-only)
 [<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/github-square.svg" width="40" height="30" />](http://www.github.com/mohammed-sed#gh-light-mode-only)
 
-[<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/linkedin.svg" width="40" height="30" />](http://www.linkedin.com/in/msed#gh-dark-mode-only)
+[<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/linkedin.svg" fill="white" width="40" height="30" />](http://www.linkedin.com/in/msed#gh-dark-mode-only)
 [<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/github-square.svg" width="40" height="30" />](http://www.github.com/mohammed-sed#gh-dark-mode-only)
 
