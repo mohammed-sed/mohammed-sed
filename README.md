@@ -22,7 +22,10 @@
 
 
 
-## Social Links
-[<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/linkedin.svg" width="25" />](http://www.linkedin.com/in/msed)
-[<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/github-square.svg" width="25" />](http://www.github.com/mohammed-sed)
+## Contact & Social
+#### Email: msed.engineer@gmail.com
+#### Phone: +249-129-4938-20
+
+[<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/linkedin.svg" width="40" height="30" />](http://www.linkedin.com/in/msed)
+[<img src="https://github.com/mohammed-sed/mohammed-sed/blob/main/github-square.svg" width="40" height="30" />](http://www.github.com/mohammed-sed)
 
