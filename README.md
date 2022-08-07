@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Mohammed
+#### ⚡ I'm Software Engineering Undergraduate currently working on my first web-based game
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-sed&show_icons=true&theme=radical)
 
 <!--
 **mohammed-sed/mohammed-sed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
