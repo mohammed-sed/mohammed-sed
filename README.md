@@ -2,8 +2,7 @@
 #### ⚡ I'm a Software Engineering Undergraduate who enjoys building different types of Software.
 #### ⚡ Currently working on my first web-based game.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-sed&show_icons=true&theme=radical)
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-sed&layout=compact" width="47%" /> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-sed&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## Skills & Experience
